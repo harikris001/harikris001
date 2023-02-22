@@ -1,5 +1,7 @@
+[![MasterHead](https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Harikrishna R Nair</h1>
 <h3 align="center">Student & Machine Learning Enthusiast</h3>
+<img align="right" alt="Coding" width="400" src="https://www.ismartcom.com/hubfs/ai%20gif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harikris001&label=Profile%20views&color=0e75b6&style=flat" alt="harikris001" /> </p>
 
