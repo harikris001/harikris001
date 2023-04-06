@@ -6,11 +6,9 @@
 
 - 🔭 I’m currently working on **Reinforcement Learning**
 
-- 🌱 I’m currently learning **TensorFlow, WebApp Development, Reinforcement Learning**
+- 🌱 I’m currently learning **Web Development, PyTorch**
 
-- 👯 I’m looking to collaborate on **ML Experts**
-
-- 🤝 I’m looking for help with **TensorFlow**
+- 🤝 I’m looking for help with **Web Development**
 
 - 💬 Ask me about **Android, PC components, ML**
 
