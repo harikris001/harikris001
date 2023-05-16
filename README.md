@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Android, PC components, ML**
 
-- 📫 How to reach me **hk5983835@gmail.com**
+- 📫 How to reach me **harikrishnar.official@gmail.com**
 
 - ⚡ Fun fact **I sleep 10HRS (in a week)**
 
