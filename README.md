@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://www.ismartcom.com/hubfs/ai%20gif.gif">
 
 
-- 🔭 I’m currently working on **Reinforcement Learning**
+- 🔭 I’m currently working on **Langchain**
 
 - 🌱 I’m currently learning **Web Development, PyTorch**
 
