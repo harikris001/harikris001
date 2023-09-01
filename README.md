@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif" align="center" style="width: 100%" />
+<img src="https://github.com/harikris001/harikris001/assets/85405666/55640fab-52f7-4edb-8642-b55ce84c1581" align="center" style="width: 100%" />
 </div>  
-  
+
 
 ### <div align="center">Hey there👋, I'm Harikrishna R Nair</div>  
   
