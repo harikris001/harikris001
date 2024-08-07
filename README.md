@@ -12,19 +12,19 @@
 <hr>  
   
 
-- 🌱 I’m currently learning Blockchains and MERN Stack  
+- 🌱 I’m currently learning React Native, Tablaue  
   
 
-- 🔭 I’m currently working on [Langchain](https://python.langchain.com/docs/get_started/introduction.html) and [Flutter](https://docs.flutter.dev/)  
+- 🔭 I’m currently working in [Flutter](https://docs.flutter.dev/)  
   
 
-- ❓ Ask me about anything related to Generative AI(GPT, Llama, SD), ML
+- 💬 Ask me about anything related to Generative AI(GPT, Llama, SD), ML
 
 
-- 💬 Ask me about **Android, PC components, ML**
+- ❓ Researching about CyberSecurity.
 
 
-- 📫 How to reach me **harikrishnar.official@gmail.com**
+- 📫 How to reach me [**Email**](mailto://harikrishnar.official@gmail.com)
 
   
 - ⚡ Fun fact: I sleep 10 hrs. (in a week😆)  
