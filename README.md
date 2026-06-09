@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://github.com/harikris001/harikris001/assets/85405666/55640fab-52f7-4edb-8642-b55ce84c1581" align="center" style="width: 100%" />
+<img width="2000" height="600" alt="Black Geometric Marketing Expert LinkedIn Banner" src="https://github.com/user-attachments/assets/f356ad6b-7a3e-4e44-a51b-a57de2706f43" align="center" style="width: 100%" />
+
 </div>  
 
 
